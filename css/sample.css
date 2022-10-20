@@ -1,0 +1,27 @@
+
+body {
+  background-color: yellow;
+}
+
+img:hover {
+  background-color: cyan;
+}
+h1 {
+  color:powderblue;
+}
+.chicken{
+  background-color: green;
+}
+.broccoli{
+  background-color: red;
+}
+.circular {
+  border-radius: 100%;
+}
+/**************************id selectors*********/
+#heading {
+  color:brown;
+}
+#big {
+  font-size: 1000px;
+}
